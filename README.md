@@ -5,24 +5,27 @@ Vulnerability Assessment using OpenVAS/Greenbone Vulnerability Scanner
 Target_List.txt
 
  2. Using vim command, edit the text file to only contain the IPs on the host, delete remaining data and save the text file.
-    <img width="382" alt="IPs" src="https://user-images.githubusercontent.com/89782464/230749969-e67a4761-691a-4cab-b77f-228240203df3.PNG">
+   <img width="382" alt="IPs" src="https://user-images.githubusercontent.com/89782464/230750068-faa69139-7be4-483f-9416-ace729976944.PNG">
+
 
 3. Open browser, enter the loopback address on the browser to navigate to OpenVAS GUI
 
 4. Navigate to Configuration. Create a new target, and upload the text file. Exclude the host IP
 
 5. Navigate to Scan, perform new scan and check results.
-   <img width="471" alt="vul-scan" src="https://user-images.githubusercontent.com/89782464/230749977-2ed7af24-00a4-4288-b94d-5063cc726ff5.PNG">
+   <img width="471" alt="vul-scan" src="https://user-images.githubusercontent.com/89782464/230750072-a1d48fdc-7bbe-48a3-97d4-497eb07aba96.PNG">
+
 
 6. Download the report.
 
-7. Rename the report using 'mv' command to corporate_scan.txt'
-   <img width="387" alt="corporate_scan" src="https://user-images.githubusercontent.com/89782464/230749982-0454780a-b732-447d-b9e0-bee165c1b148.PNG">
+7. Rename the report using 'mv' command to 'corporate_scan.txt'
+  <img width="387" alt="corporate_scan" src="https://user-images.githubusercontent.com/89782464/230750077-05d59383-7562-47ca-93ef-8880c32a1d61.PNG">
 
-8. Start the python3 simple server
 
-9. Move over to windows machine. Go to browser. Enter the host IP on port 8080
+8. Start the python3 simple http server on the linux CLI to access the txt file corporate_scan.txt
+
+9. Move over to windows machine. Go to browser. Enter the host IP on port 8080, navigate to corporate_scan.txt
 
 10. Downloaded report appears as webpage containing the scanned data
 
-11. Use this data to fill out a vulnerability report using openoffice and save it as PDF
+11. Use this data to fill out a vulnerability report using openoffice containing describing errors related to the IPs, remediation steps,and save it as PDF
