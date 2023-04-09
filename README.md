@@ -12,10 +12,10 @@ Target_List.txt
 
 4. Navigate to Configuration. Create a new target, and upload the text file. Exclude the host IP
 
+
 5. Navigate to Scan, perform new scan and check results.
-   <img width="471" alt="vul-scan" src="https://user-images.githubusercontent.com/89782464/230750072-a1d48fdc-7bbe-48a3-97d4-497eb07aba96.PNG">
-
-
+   <img width="382" alt="vul-scan" src="https://user-images.githubusercontent.com/89782464/230750072-a1d48fdc-7bbe-48a3-97d4-497eb07aba96.PNG">
+   
 6. Download the report.
 
 7. Rename the report using 'mv' command to 'corporate_scan.txt'
