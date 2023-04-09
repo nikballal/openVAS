@@ -1,5 +1,4 @@
-# OpenVAS
-## Vulnerability Assessment using OpenVAS/Greenbone Vulnerability Scanner
+# Vulnerability Assessment using OpenVAS/Greenbone Vulnerability Scanner
 
  ### 1. On Kali linux, host IP - 192.168.0.222, check for the machines available on the host using 'nmap' command on the CLI and output the into a target file Target_List.txt
 
