@@ -20,7 +20,7 @@
 
 ### 8. Start the python3 simple http server on the linux CLI to access the txt file corporate_scan.txt
 
-### 9. Move over to windows machine. Go to browser. Enter the host IP on port 8080, navigate to corporate_scan.txt
+### 9. Move over to windows machine 'on the same subnet'. Go to browser. Enter the host IP on port 8080, navigate to corporate_scan.txt
 
 ### 10. Downloaded report appears as webpage containing the scanned data
 
