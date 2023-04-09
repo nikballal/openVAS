@@ -23,4 +23,4 @@
 
 ### 10. Downloaded report appears as webpage containing the scanned data
 
-### 11. Use this data to fill out a vulnerability report using openoffice containing describing errors related to the IPs, remediation steps,and save it as PDF
+### 11. Document as vulnerability scan report using OpenOffice save it as PDF.
