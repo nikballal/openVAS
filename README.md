@@ -17,10 +17,4 @@
 ### 7. Rename the report using 'mv' command to 'corporate_scan.txt'
   <img width="387" alt="corporate_scan" src="https://user-images.githubusercontent.com/89782464/230750077-05d59383-7562-47ca-93ef-8880c32a1d61.PNG">
 
-### 8. Start the python3 simple http server on the linux CLI to access the txt file corporate_scan.txt
-
-### 9. Move over to user pc - windows machine 'on the same subnet'. Go to browser. Enter the host IP on port 8080, navigate to corporate_scan.txt
-
-### 10. Downloaded report appears as webpage containing the scanned data
-
-### 11. Document as vulnerability scan report using OpenOffice save it as PDF.
+### 8. Prepare to document as vulnerability scan report using OpenOffice save it as PDF.
