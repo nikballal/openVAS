@@ -17,4 +17,4 @@
 ### 7. Rename the report using 'mv' command to 'corporate_scan.txt'
   <img width="387" alt="corporate_scan" src="https://user-images.githubusercontent.com/89782464/230750077-05d59383-7562-47ca-93ef-8880c32a1d61.PNG">
 
-### 8. Prepare to document as vulnerability scan report using OpenOffice save it as PDF.
+### 8. Proceed to documenting the findings and the respective remediations.
